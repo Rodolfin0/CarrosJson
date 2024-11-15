@@ -1,0 +1,16 @@
+{
+    "carros": [
+        {
+            "id": "2",
+            "Marca": "McLaren",
+            "Detalhes": "720s Spiderafafaf",
+            "Foto": "https:\/\/uploads.diariodopoder.com.br\/2022\/08\/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },
+        {
+            "id": "6",
+            "Marca": "Audi",
+            "Detalhes": "Rs7",
+            "Foto": "https:\/\/cf-cdn-v6-api.audi.at\/files\/6f08098499eebf4a1778035ddcd3901ab800213d\/99437b01-bb06-4c91-8d67-fae067b4be90\/1920x900-rs720201544"
+        }
+    ]
+}
